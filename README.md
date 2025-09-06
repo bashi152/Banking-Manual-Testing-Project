@@ -1,2 +1,8 @@
-# Banking-Manual-Testing-Project
-Manual testing project on demo banking app
+
+Banking-Manual-Testing-Project/
+│── Test_Plan.docx
+│── Test_Cases.xlsx
+│── Test_Scenarios.xlsx
+│── Bug_Report.xlsx
+│── Test_Summary.docx
+
